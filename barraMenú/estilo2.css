@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+h1 {text-align:center;
+	color: #D7D7D9;
+	font-family: 'Oswald', sans-serif;
+	font-size: 5em
+}
+h2{text-align:center;
+	color:#9CA1FF;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em	
+}
+h3{text-align:center;
+	color:#9CA1FF;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em	
+}
+a{ color:#DB1E21;
+	font-family: 'Oswald', sans-serif;
+}
+ul {
+	font-family: 'Oswald', sans-serif;
+}
+p {text-align:center;
+	font-family:'Poppins', sans-serif;
+	color:darkgrey;
+		font-size:0.90em
+}
